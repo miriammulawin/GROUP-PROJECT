@@ -1,0 +1,157 @@
+body {
+  background-color:#F2F2F2;
+  /* background-color: #c9c9c923; */
+  font-family: 'Segoe UI', sans-serif;
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+}
+
+.navigation a {
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.navigation a:hover {
+  color: #152962; 
+}
+
+
+.bn {
+  background-color: white;
+  margin-top: -30px;
+  padding: 0 150px 0 150px;
+}
+
+.bn p{
+  font-weight:500;
+}
+
+
+.banner img{
+  margin-top: 93px;
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  filter: blur(5px);
+   filter: brightness(30%);
+}
+
+.banner img:hover{
+ filter: brightness(28%);
+}
+.learnmore{
+
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255, 0.745);
+ border: 1px solid rgba(255, 255, 255, 0.673);
+border-radius: 5px;
+ transition: transform 0.4s ease, box-shadow 0.4s ease;
+
+}
+
+.learnmore:hover{
+  background-color: #ffffff00;
+  color: rgb(255, 255, 255);
+  transform: scale(1.05);
+}
+
+
+.bdy h6 {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #2c3e50;
+}
+
+
+.image {
+  border-radius: 20px 20px 0 0;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  transition: opacity 0.3s ease;
+}
+.card {
+  height: 100%;
+  background-color: #ffffff;
+  border: 1px solid rgba(117, 117, 117, 0.252);
+  box-shadow: 10px 10px 12px rgba(0,0,0,0.15);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 20px rgba(0,0,0,0.2);
+}
+
+.card:hover .image {
+  opacity: 0.9;
+}
+
+.btn{
+  border-radius: 5px;
+  background-color: #000000d5;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgba(185, 185, 185, 0.674);
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+.btn:hover{
+  background-color: #000000;
+  color: white;
+
+}
+
+
+.contact{
+  border-top: 1px solid rgb(168, 168, 168);
+  padding-top: 35px;
+  background-color: #ffffff;
+}
+
+.ctitle{
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.id-container{
+  background-color: #ffffff;
+  padding: 15px 15px 0 15px;
+}
+.contact-card{
+
+  border: 1px solid rgba(0, 0, 0, 0.371);
+  display: flex;
+  padding: 25px;
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.contact-card img{
+  width: 80px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.323);
+  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.115);
+}
+
+.info{
+  margin: 20px 20px 0 40px;
+
+}
+
+.h{
+ border-top: 1px solid rgba(0, 0, 0, 0.323);
+}
+
+.contact-card:hover{
+  background-color: #f5f5f5;
+  transform: scale(1.04);
+}
