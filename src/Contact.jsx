@@ -3,6 +3,8 @@
 // AT DAPAT ANG IMG NYO AY NAKAUPLOAD SA IMG NA FOLDER
 import im1 from "./img/img1.jpg";
 import mir from "./img/MIR.jpg";
+import jaz from "./img/jaz.jpg";
+
 function Contact() {
   return (
     <>
@@ -37,9 +39,9 @@ function Contact() {
 
               <div className="col-md-4">
                 <div className="contact-card">
-                  <img src={mir} alt="" />
+                  <img src={jaz} alt="" />
                   <div className="info">
-                    <p>Email: mulawinmiriam75@gmail.com Contact: 09629600206</p>
+                    <p>Email: cruzjazminee50@gmail.com Contact: 09217326390</p>
                   </div>
                 </div>
               </div>

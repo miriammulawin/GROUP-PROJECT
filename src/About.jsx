@@ -2,6 +2,7 @@
 // AT DAPAT ANG IMG NYO AY NAKAUPLOAD SA IMG NA FOLDER
 import im1 from "./img/img1.jpg";
 import mir from "./img/MIR.jpg";
+import jaz from "./img/jaz.jpg";
 
 function About() {
 return (
@@ -58,12 +59,12 @@ return (
           {/* CRUZ  */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={im1} alt="" className="image card-img-top" />
+              <img src={jaz} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
-                <h6>Miriam B. Mulawin</h6>
+                <h6>Jazmine L. Cruz</h6>
                 <p className="description px-3 mt-3">
-                  A dedicated IT student who believes that every line of code
-                  brings her closer to achieving her goals
+                 An IT student who sees technology as a tool to 
+                 turn small ideas into big possibilities
                 </p>
                 <button className="btn">View Profile</button>
               </div>
