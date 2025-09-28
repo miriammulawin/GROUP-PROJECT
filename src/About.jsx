@@ -44,12 +44,11 @@ return (
           {/* PEBI */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={im1} alt="" className="image card-img-top" />
+              <img src={rose} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
-                <h6>Miriam B. Mulawin</h6>
+                <h6>Rose Bren A. Dungo</h6>
                 <p className="description px-3 mt-3">
-                  A dedicated IT student who believes that every line of code
-                  brings her closer to achieving her goals
+                 A determined IT student preparing to be part of the digital future.
                 </p>
                 <button className="btn">View Profile</button>
               </div>
