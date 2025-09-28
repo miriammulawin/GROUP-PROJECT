@@ -6,6 +6,7 @@ import mir from "./img/MIR.jpg";
 import jaz from "./img/jaz.jpg";
 import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
+import je from "./img/je.jpg";
 
 function Contact() {
   return (
@@ -65,9 +66,9 @@ function Contact() {
 
               <div className="col-md-4">
                 <div className="contact-card">
-                  <img src={mir} alt="" />
+                  <img src={je} alt="" />
                   <div className="info">
-                    <p>Email: mulawinmiriam75@gmail.com Contact: 09629600206</p>
+                    <p>Email: clasinmaryje56@gmail.com Contact: 09684506926</p>
                   </div>
                 </div>
               </div>

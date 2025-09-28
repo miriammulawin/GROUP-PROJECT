@@ -5,6 +5,7 @@ import mir from "./img/MIR.jpg";
 import jaz from "./img/jaz.jpg";
 import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
+import je from "./img/je.jpg";
 
 function About() {
 return (
@@ -75,12 +76,12 @@ return (
           {/* CLASIN */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={im1} alt="" className="image card-img-top" />
+              <img src={je} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
-                <h6>Miriam B. Mulawin</h6>
+                <h6>Maryje M. Clasin</h6>
                 <p className="description px-3 mt-3">
-                  A dedicated IT student who believes that every line of code
-                  brings her closer to achieving her goals
+                  Information Technology turns imagination into innovation, 
+                  building bridges between people and possibilities
                 </p>
                 <button className="btn">View Profile</button>
               </div>
