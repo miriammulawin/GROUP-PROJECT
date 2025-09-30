@@ -7,7 +7,7 @@ import jaz from "./img/jaz.jpg";
 import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
 import je from "./img/je.jpg";
-import mjpic from "./img/mjpic.jpg";
+import mj from "./img/mj.jpg";
 
 function Contact() {
   return (
@@ -91,7 +91,7 @@ function Contact() {
 
               <div className="col-md-4">
                 <div className="contact-card">
-                  <img src={mjpic} alt="" />
+                  <img src={mj} alt="" />
                   <div className="info">
                     <p>Email: velasquezmichaeljabez24@gmail.com Contact: 099195873366</p>
                   </div>

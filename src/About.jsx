@@ -6,7 +6,7 @@ import jaz from "./img/jaz.jpg";
 import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
 import je from "./img/je.jpg";
-import mjpic from "./img/mjpic.jpg";
+import mj from "./img/mj.jpg";
 
 function About() {
 return (
@@ -123,7 +123,7 @@ return (
           {/* VELASQUEZ */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={mjpic} alt="" className="image card-img-top" />
+              <img src={mj} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Michael Jabez S. Velasquez</h6>
                 <p className="description px-3 mt-3">
