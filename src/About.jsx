@@ -35,7 +35,7 @@ return (
               <img src={mir} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Miriam B. Mulawin</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                   A dedicated IT student who believes that every line of code
                   brings her closer to achieving her goals
                 </p>
@@ -50,7 +50,7 @@ return (
               <img src={rose} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Rose Bren A. Dungo</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                  A determined IT student preparing to be part of the digital future.
                 </p>
                 <button className="btn">View Profile</button>
@@ -64,7 +64,7 @@ return (
               <img src={jaz} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Jazmine L. Cruz</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                  An IT student who sees technology as a tool to 
                  turn small ideas into big possibilities
                 </p>
@@ -79,7 +79,7 @@ return (
               <img src={je} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Maryje M. Clasin</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                   Information Technology turns imagination into innovation, 
                   building bridges between people and possibilities
                 </p>
@@ -96,7 +96,7 @@ return (
               <img src={jii} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Jehus N. Cabalejo</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                   As an IT student, I'm defining my future with every line of code I write.
                 </p>
                 <button className="btn">View Profile</button>
@@ -110,7 +110,7 @@ return (
               <img src={im1} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy ">
                 <h6>Miriam B. Mulawin</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3">
                   A dedicated IT student who believes that every line of code
                   brings her closer to achieving her goals
                 </p>
@@ -125,7 +125,7 @@ return (
               <img src={im1} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
                 <h6>Miriam B. Mulawin</h6>
-                <p className="description px-3 mt-3">
+                <p className="description px-3 ">
                   A dedicated IT student who believes that every line of code
                   brings her closer to achieving her goals
                 </p>
