@@ -84,7 +84,7 @@ return (
                 <p className="description px-3 mt-3">
                   Information Technology turns imagination into innovation, 
                   building bridges between people and possibilities
-                </p>
+                </p> 
                 <button className="btn">View Profile</button>
               </div>
             </div>

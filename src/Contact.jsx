@@ -85,7 +85,7 @@ function Contact() {
                   <img src={jc} alt="" />
                   <div className="info">
                     <p>Email: cenidojesus2203308@gmail.com <br></br>
-                    Contact: 09762516073</p>
+                    Contact: 09762516073</p> 
                   </div>
                 </div>
               </div>
