@@ -8,6 +8,7 @@ import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
 import je from "./img/je.jpg";
 import mj from "./img/mj.jpg";
+import jc from "./img/jc.jpg";
 
 function Contact() {
   return (
@@ -27,7 +28,8 @@ function Contact() {
                   anong name ng image na inimport nyo */}
                   <img src={mir} alt="" />
                   <div className="info">
-                    <p>Email: mulawinmiriam75@gmail.com Contact: 09629600206</p>
+                    <p>Email: mulawinmiriam75@gmail.com <br></br>
+                    Contact: 09629600206</p>
                   </div>
                 </div>
               </div>
@@ -36,7 +38,8 @@ function Contact() {
                 <div className="contact-card">
                   <img src={rose} alt="" />
                   <div className="info">
-                    <p>Email: dungorosebren34@gmail.com Contact: 09984266265</p>
+                    <p>Email: dungorosebren34@gmail.com <br></br>
+                    Contact: 09984266265</p>
                   </div>
                 </div>
               </div>
@@ -45,7 +48,8 @@ function Contact() {
                 <div className="contact-card">
                   <img src={jaz} alt="" />
                   <div className="info">
-                    <p>Email: cruzjazminee50@gmail.com Contact: 09217326390</p>
+                    <p>Email: cruzjazminee50@gmail.com <br></br>
+                    Contact: 09217326390</p>
                   </div>
                 </div>
               </div>
@@ -60,7 +64,8 @@ function Contact() {
                 <div className="contact-card">
                   <img src={jii} alt="" />
                   <div className="info">
-                    <p>Email: cabalejojehus55@gmail.com Contact: 09395942762</p>
+                    <p>Email: cabalejojehus55@gmail.com <br></br>
+                    Contact: 09395942762</p>
                   </div>
                 </div>
               </div>
@@ -69,16 +74,18 @@ function Contact() {
                 <div className="contact-card">
                   <img src={je} alt="" />
                   <div className="info">
-                    <p>Email: clasinmaryje56@gmail.com Contact: 09684506926</p>
+                    <p>Email: clasinmaryje56@gmail.com <br></br>
+                    Contact: 09684506926</p>
                   </div>
                 </div>
               </div>
 
               <div className="col-md-4">
                 <div className="contact-card">
-                  <img src={mir} alt="" />
+                  <img src={jc} alt="" />
                   <div className="info">
-                    <p>Email: mulawinmiriam75@gmail.com Contact: 09629600206</p>
+                    <p>Email: cenidojesus2203308@gmail.com <br></br>
+                    Contact: 09762516073</p>
                   </div>
                 </div>
               </div>
@@ -93,7 +100,8 @@ function Contact() {
                 <div className="contact-card">
                   <img src={mj} alt="" />
                   <div className="info">
-                    <p>Email: velasquezmichaeljabez24@gmail.com Contact: 099195873366</p>
+                    <p>Email: velasquezmichaeljabez24@gmail.com <br></br>
+                    Contact: 099195873366</p>
                   </div>
                 </div>
               </div>

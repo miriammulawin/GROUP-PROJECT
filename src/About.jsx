@@ -7,6 +7,7 @@ import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
 import je from "./img/je.jpg";
 import mj from "./img/mj.jpg";
+import jc from "./img/jc.jpg";
 
 function About() {
 return (
@@ -108,12 +109,13 @@ return (
           {/* CENIDO */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={im1} alt="" className="image card-img-top" />
+              <img src={jc} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy ">
                 <h6>Miriam B. Mulawin</h6>
                 <p className="description px-3 mt-3">
-                  A dedicated IT student who believes that every line of code
-                  brings her closer to achieving her goals
+                  I enjoy exploring problem-solving through technology, gaining 
+                  skills in programming, troubleshooting, and system management 
+                  to prepare for a future career in the I.T. field.
                 </p>
                 <button className="btn">View Profile</button>
               </div>
