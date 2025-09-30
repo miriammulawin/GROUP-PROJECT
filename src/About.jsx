@@ -6,6 +6,7 @@ import jaz from "./img/jaz.jpg";
 import rose from "./img/rose.jpg";
 import jii from "./img/jii.jpg";
 import je from "./img/je.jpg";
+import mjpic from "./img/mjpic.jpg";
 
 function About() {
 return (
@@ -122,12 +123,12 @@ return (
           {/* VELASQUEZ */}
           <div className="col-md-3 col-sm-6">
             <div className="card">
-              <img src={im1} alt="" className="image card-img-top" />
+              <img src={mjpic} alt="" className="image card-img-top" />
               <div className="card-body text-center mt-3 bdy">
-                <h6>Miriam B. Mulawin</h6>
+                <h6>Michael Jabez S. Velasquez</h6>
                 <p className="description px-3 mt-3">
-                  A dedicated IT student who believes that every line of code
-                  brings her closer to achieving her goals
+                  As both an artist and IT student, I am passionate about transforming 
+                  ideas into creative, functional solutions that bridge design and technology.
                 </p>
                 <button className="btn">View Profile</button>
               </div>
