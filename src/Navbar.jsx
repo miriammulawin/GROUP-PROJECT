@@ -1,37 +1,29 @@
-import { Link as ScrollLink } from "react-scroll";
+import { NavLink} from "react-router-dom";
 
 function Navbar() {
   return (
     <nav className="nav navbar navbar-expand-lg fixed-top justify-content-center px-5 py-4">
       <div className="navigation">
-        <ScrollLink
+        <NavLink
           className="navbar-brand mx-5"
-          to="home"
-          smooth={true}
-          duration={100}
-          offset={-100}
+          to="/"
         >
           HOME
-        </ScrollLink>
+        </NavLink>
 
-        <ScrollLink
+        <NavLink
           className="navbar-brand mx-5"
-          to="about"
-          smooth={true}
-          duration={100}
-          offset={-45}
+          to="/about"
         >
           ABOUT
-        </ScrollLink>
+        </NavLink>
 
-        <ScrollLink
+        <NavLink
           className="navbar-brand mx-5"
-          to="contact"
-          smooth={true}
-          duration={100}
+          to="/contact"
         >
           CONTACT
-        </ScrollLink>
+        </NavLink>
       </div>
     </nav>
   );
